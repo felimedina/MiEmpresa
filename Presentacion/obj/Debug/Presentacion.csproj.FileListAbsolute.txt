@@ -1,0 +1,10 @@
+C:\Users\PCSERVER\Desktop\MiEmpresa\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\PCSERVER\Desktop\MiEmpresa\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\PCSERVER\Desktop\MiEmpresa\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\PCSERVER\Desktop\MiEmpresa\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\PCSERVER\Desktop\MiEmpresa\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\PCSERVER\Desktop\MiEmpresa\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\PCSERVER\Desktop\MiEmpresa\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\PCSERVER\Desktop\MiEmpresa\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\PCSERVER\Desktop\MiEmpresa\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\PCSERVER\Desktop\MiEmpresa\Presentacion\obj\Debug\Presentacion.Form1.resources
